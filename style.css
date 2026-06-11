@@ -3,7 +3,7 @@
    ========================================================================== */
 :root {
     /* Cores Institucionais Obrigatórias */
-    --color-bg-body: #A4D6C7;
+    --color-bg-body:rgb(159, 161, 255);
     --color-bg-header: #D4D4E4;
     --color-text-header: #000000;
     --color-brand-dark: #000000;
