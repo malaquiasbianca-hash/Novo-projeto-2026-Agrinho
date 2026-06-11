@@ -4,7 +4,7 @@
 :root {
     /* Cores Institucionais Obrigatórias */
     --color-bg-body:rgb(159, 161, 255);
-    --color-bg-header: #D4D4E4;
+    --color-bg-header: rgb(181, 186, 255)
     --color-text-header: #000000;
     --color-brand-dark: #000000;
     --color-text-dark: #000000;
